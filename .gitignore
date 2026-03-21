@@ -1,5 +1,15 @@
 venv/
 .venv/
-_pycache_/
+**/__pycache__/
 .ipynb_checkpoints/
-data/yelp_academic_dataset_business.json
+/output/yelp_academic_dataset_business_flat.csv
+/output/yelp_academic_dataset_checkin_flat.csv
+/output/yelp_academic_dataset_review_flat.csv
+/output/yelp_academic_dataset_user_flat.csv
+/output/yelp_academic_dataset_tip_flat.csv
+/data/yelp_academic_dataset_business.json
+/data/yelp_academic_dataset_checkin.json
+/data/yelp_academic_dataset_review.json
+/data/yelp_academic_dataset_user.json
+/data/yelp_academic_dataset_tip.json
+/models
