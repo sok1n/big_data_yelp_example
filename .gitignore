@@ -2,3 +2,4 @@ venv/
 .venv/
 _pycache_/
 .ipynb_checkpoints/
+data/yelp_academic_dataset_business.json
