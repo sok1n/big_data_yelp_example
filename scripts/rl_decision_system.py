@@ -78,5 +78,5 @@ for epsilon in range (50) :
         state = next_state
         done = terminated or truncated
 
-print("Episode;" , epsilon,
+print("Episode:" , epsilon,
       "Total reward:", total_reward)
